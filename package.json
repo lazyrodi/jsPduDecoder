@@ -1,6 +1,6 @@
 {
   "name": "js-pdu-decoder",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Decodes many PDU encoded SMS formats.",
   "main": "jspdudecoder.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "browserify": "^11.0.1",
     "clean-css": "^3.4.1",
     "dev-server": "0.0.2",
-    "jquery": "^2.1.4",
+    "jquery": "^3.1.0",
     "uglifyify": "^3.0.1"
   }
 }
